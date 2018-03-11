@@ -1,0 +1,7 @@
+Materials:
+- 20 cables jumper hembra-macho
+- A potentiometer of 10k (variable resistance)
+- 1 mini-protoboard
+- 1 arduino uno
+- 1 keypad 4x4
+- 1 display 16x2
